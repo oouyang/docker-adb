@@ -1,4 +1,4 @@
-FROM ubunut
+FROM ubuntu:14.04.2
 MAINTAINER Owen Ouyang <owen.ouyang@live.com>
 
 # Install prerequisites
