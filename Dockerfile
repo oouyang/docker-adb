@@ -1,4 +1,4 @@
-FROM ubunut:14.04.2
+FROM ubunut
 MAINTAINER Owen Ouyang <owen.ouyang@live.com>
 
 # Install prerequisites
